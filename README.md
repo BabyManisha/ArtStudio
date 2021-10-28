@@ -1,4 +1,4 @@
 # ArtStudio
 LekhaArtStudio
 
-## Data from Instagram!  
+## Data from Instagram!
